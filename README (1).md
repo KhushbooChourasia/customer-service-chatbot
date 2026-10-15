@@ -16,6 +16,14 @@ delivery information, and customer support.
 - Conversation history
 - Fallback response for unrecognized questions
 
+  ## Screenshots
+
+### Chatbot Homepage
+![Chatbot Homepage](screenshots/chatbot-home.png)
+
+### Chatbot Response
+![Chatbot Response](screenshots/chatbot-response.png)
+
 ## Technologies Used
 - Python
 - Streamlit
